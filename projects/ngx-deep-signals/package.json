@@ -1,0 +1,32 @@
+{
+  "name": "ngx-deep-signals",
+  "version": "0.1.0",
+  "description": "Angular Signals without the noise — transparent reactive proxies, decorators, and a MobX-style class wrapper, all backed by native Angular signals.",
+  "keywords": [
+    "angular",
+    "signals",
+    "reactive",
+    "deep",
+    "proxy",
+    "mobx",
+    "vue-reactive",
+    "decorators"
+  ],
+  "license": "MIT",
+  "author": "ngx-deep-signals contributors",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngx-deep-signals/ngx-deep-signals"
+  },
+  "bugs": {
+    "url": "https://github.com/ngx-deep-signals/ngx-deep-signals/issues"
+  },
+  "homepage": "https://github.com/ngx-deep-signals/ngx-deep-signals#readme",
+  "peerDependencies": {
+    "@angular/core": ">=17.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
